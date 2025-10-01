@@ -9,7 +9,7 @@ This repository centralizes my labs and exercises for learning quantum computing
 
 ## 📚 Main Resource
 
-- **Course :** [UChicagoX QUAN12000 - Introduction to Quantum Computing for Everyone 2](https://www.edx.org/learn/quantum-computing/the-university-of-chicago-introduction-to-quantum-computing-for-everyone-2)
+- **Course :** [UChicagoX QUAN12000 - Introduction to Quantum Computing for Everyone 2](https://www.edx.org/learn/quantum-computing/university-of-chicago-introduction-to-quantum-computing-for-everyone-2)
 - **Official Qiskit Documentation :** [Qiskit Learn](https://qiskit.org/learn/)
 
 ---
